@@ -1,7 +1,7 @@
-# 最小化Jekyll配置
-title: "Java基础核心学习笔记"
-description: "移动版Java学习页面"
-theme: jekyll-theme-minimal
+# 禁用所有Jekyll处理
+safe: true
+include: []
+exclude: [".*"]
+keep_files: [".nojekyll"]
 plugins: []
-exclude:
-  - deploy_guide.md
+theme: null
