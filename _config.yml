@@ -1,0 +1,7 @@
+# 最小化Jekyll配置
+title: "Java基础核心学习笔记"
+description: "移动版Java学习页面"
+theme: jekyll-theme-minimal
+plugins: []
+exclude:
+  - deploy_guide.md
